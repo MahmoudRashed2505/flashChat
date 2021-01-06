@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "flash_chat (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
